@@ -1,0 +1,19 @@
+{
+  "name": "AngularTodo",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": "",
+  "description": "",
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "private": true,
+  "dependencies": {
+    "express": "3.4.7",
+    "consolidate": "0.10.0",
+    "ejs": "0.8.5"
+  }
+}
